@@ -4,12 +4,9 @@ Radio-frequency Transmiter-Receiver menggunakan Arduino Nano, ESP32, dan modul N
 
 # Skematik
 
-
-
-# Tampilan
-
 ![skematik](./img/sch.png)
 
+# Tampilan
 
 ## Tampak Atas
 
