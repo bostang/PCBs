@@ -1,0 +1,27 @@
+Comment,Designator,Footprint,LCSC Part Number
+Battery,BT1,Battery:BatteryHolder_Keystone_1042_1x18650,C2988620
+Buzzer,BZ1,Buzzer_Beeper:Buzzer_12x9.5RM7.6,
+SSD1306,Brd1,WMS_components:128x64OLED,
+10u,"C2,C4,C6,C7,C10,C12,C14,C16,C18",Capacitor_SMD:C_0805_2012Metric,
+100n,"C1,C3,C5,C8,C9,C11,C13,C15,C17,C19,C20,C21",Capacitor_SMD:C_0805_2012Metric,
+LED,"D1,D2",LED_THT:LED_D3.0mm,
+1N4148W,"D3,D4,D5,D6",Diode_SMD:D_SOD-123,
+MountingHole,"H1,H2,H3,H4,H16,H17",MountingHole:MountingHole_2.2mm_M2,
+MountingHole_Pad,"H5,H6,H7,H8,H9,H10,H11,H12,H13,H14,H15",TestPoint:TestPoint_Pad_D2.0mm,
+Conn_01x40_Socket,"J1,J2",Connector_PinHeader_2.54mm:PinHeader_1x40_P2.54mm_Vertical,
+Conn_01x03_Socket,J3,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,
+82,R1,Resistor_SMD:R_0805_2012Metric,
+120,R2,Resistor_SMD:R_0805_2012Metric,
+470k,"R3,R8,R10",Resistor_SMD:R_0805_2012Metric,
+330,"R6,R7,R9",Resistor_SMD:R_0805_2012Metric,
+SW_Push_Open,"SW1,SW2,SW3",Button_Switch_THT:SW_PUSH-12mm,
+SW_SPDT,SW4,WMS_components:SPDT,
+SW_Push_DPDT,SW5,WMS_components:DPDT,
+SW_Push_Open,SW6,Button_Switch_THT:SW_PUSH_6mm_H9.5mm,
+~,U1,WMS_components:YR903_RFID,C2797196
+~,U2,WMS_components:TP4056-18650_v2,
+~,U3,WMS_components:MT3608_module_v2,
+~,U4,Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,C2939353
+~,U5,WMS_components:Quad_SPI_flash_microSD_v2,
+~,U6,WMS_components:CY8CPROTO-062-4343W_v3,
+40106,U7,Package_SO:SOIC-14_3.9x8.7mm_P1.27mm,
