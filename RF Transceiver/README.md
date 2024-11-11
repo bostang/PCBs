@@ -24,6 +24,6 @@ Radio-frequency Transmiter-Receiver menggunakan Arduino Nano, ESP32, dan modul N
 
 ## Bird-view
 ## v2
-![top view](./img/bottom-view_v2.png)
+![Bird view](./img/bird-view_v2.png)
 ## v1
 ![Bird view](./img/bird-view.png)
