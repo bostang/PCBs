@@ -1,0 +1,230 @@
+(kicad_symbol_lib
+	(version 20231120)
+	(generator "kicad_symbol_editor")
+	(generator_version "8.0")
+	(symbol "oled128x32"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "U"
+			(at -8.89 6.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at -8.89 6.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at -8.89 6.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -8.89 6.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at -8.89 6.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "oled128x32_1_1"
+			(rectangle
+				(start -12.7 5.08)
+				(end 15.24 -5.08)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(rectangle
+				(start -7.62 2.54)
+				(end 13.97 -3.81)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.81 2.54) (xy -2.54 -3.81) (xy -1.27 -3.81) (xy 5.08 2.54) (xy 6.35 2.54) (xy 0 -3.81)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 7.62 2.54) (xy 1.27 -3.81) (xy 2.54 -3.81) (xy 8.89 2.54) (xy 10.16 2.54) (xy 3.81 -3.81)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 10.16 2.54) (xy 3.81 -3.81) (xy 5.08 -3.81) (xy 11.43 2.54) (xy 12.7 2.54) (xy 6.35 -3.81)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 13.97 2.54) (xy 7.62 -3.81) (xy 8.89 -3.81) (xy 13.97 1.27) (xy 13.97 0) (xy 10.16 -3.81) (xy 11.43 -3.81)
+					(xy 13.97 -1.27) (xy 13.97 -2.54) (xy 12.7 -3.81)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -7.62 1.27) (xy -6.35 2.54) (xy -5.08 2.54) (xy -7.62 0) (xy -7.62 -1.27) (xy -3.81 2.54) (xy -2.54 2.54)
+					(xy -7.62 -2.54) (xy -7.62 -3.81) (xy -1.27 2.54) (xy 0 2.54) (xy -6.35 -3.81) (xy -5.08 -3.81)
+					(xy 1.27 2.54) (xy 2.54 2.54) (xy -3.81 -3.81)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(text "128x32 OLED I2C"
+				(at 3.302 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(text "OLED Display"
+				(at 4.064 -0.508 0)
+				(effects
+					(font
+						(size 1.778 1.778)
+						(thickness 0.508)
+						(bold yes)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -15.24 3.81 0)
+				(length 2.54)
+				(name "SDA"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -15.24 1.27 0)
+				(length 2.54)
+				(name "SCL"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -15.24 -1.27 0)
+				(length 2.54)
+				(name "VCC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -15.24 -3.81 0)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
+)
