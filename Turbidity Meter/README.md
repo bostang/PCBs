@@ -4,7 +4,7 @@ based on ATTiny13. Tugas Besar EL3013 Sistem Instrumentasi.
 
 # Skematik
 
-![skematik](./img/sch.png)
+![skematik](./img/sch.jpg)
 
 # Tampilan
 
