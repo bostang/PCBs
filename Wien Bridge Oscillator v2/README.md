@@ -18,6 +18,6 @@
 
 ## Bird-view
 
-![Bird view](./img/bird-view-1.png)
+![Bird view](./img/bird-view_1.png)
 
-![Bird view](./img/bird-view-2.png)
+![Bird view](./img/bird-view_2.png)
