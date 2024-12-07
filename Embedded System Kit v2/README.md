@@ -2,9 +2,9 @@
 
 # Skematik
 
-![skematik](./img/sch1.jpg)
-![skematik](./img/sch2.jpg)
-![skematik](./img/sch3.jpg)
+![skematik](./img/sch_1.jpg)
+![skematik](./img/sch_2.jpg)
+![skematik](./img/sch_3.jpg)
 
 # Tampilan
 
