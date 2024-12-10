@@ -4,7 +4,7 @@ Kit Praktikum EL2101 Praktikum Rangkaian Elektrik Modul 3. (v2)
 
 # Skematik
 
-![skematik](./img/sch.png)
+![skematik](./img/sch.jpg)
 
 # Tampilan
 
