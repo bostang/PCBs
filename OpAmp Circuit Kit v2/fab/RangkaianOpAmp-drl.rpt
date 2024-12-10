@@ -1,0 +1,26 @@
+Drill report for RangkaianOpAmp.kicad_pcb
+Created on 2024-12-10T19:07:19+0800
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'RangkaianOpAmp-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0,400mm  0,0157"  (88 holes)
+    T2  0,500mm  0,0197"  (32 holes)
+    T3  1,000mm  0,0394"  (52 holes)
+    T4  3,200mm  0,1260"  (4 holes)
+    T5  6,100mm  0,2402"  (7 holes)
+
+    Total plated holes count 183
+
+
+Drill file 'RangkaianOpAmp-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
